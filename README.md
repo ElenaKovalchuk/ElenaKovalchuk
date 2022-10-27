@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ElenaKovalchuk
-- 👀 I’m interested in Java
+- 👀 I work as a QA engineer. Now I'm learning Ruby on Odin project.
 
 
